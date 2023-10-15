@@ -1,0 +1,11 @@
+Rust:
+
+Overzicht: Rust is een multiplayer survivalgame waarin spelers met niets beginnen en 
+middelen moeten verzamelen, bases bouwen en zich moeten verdedigen tegen andere 
+spelers om te overleven. Het staat bekend om intense spelerinteractie en genadeloze PvP-gevechten.
+
+Opvallende kenmerken: Bases bouwen, grondstoffen verzamelen en een dynamische, door 
+spelers aangedreven economie.
+
+Community: Rust heeft een competitieve en vaak meedogenloze spelerbasis, wat zorgt 
+voor intense momenten van zowel samenwerking als conflict.
